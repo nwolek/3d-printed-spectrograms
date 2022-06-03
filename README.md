@@ -4,8 +4,13 @@
 
 A set of spectrograms designed to teach about common features of sound events (duration, intensity, pitch, timbre, pattern, speed). The digital files are provided so that anyone can 3D print these models for their own lessons or projects.
 
-![3D model based on a short field recording from Canaveral. It features a few sharp peaks in the lower right corner created by an owl hooting, some wide vertical ridges created by a frog croak in the middle left, and a horizontal ridge toward the upper edge created by crickets.](cricket-owl-frog-1200.png)
+## Example
 
+Video Description: 3D model based on a short field recording from Canaveral. It features a few sharp peaks in the lower right corner created by an owl hooting, some wide vertical ridges created by a frog croak in the middle left, and a horizontal ridge toward the upper edge created by crickets.
+
+Play the following movie to hear the original sound recording. Be sure to unmute playback, otherwise it will be silent.
+
+https://user-images.githubusercontent.com/464655/171907600-f3b6f602-794f-4e0e-9546-c830026c9206.mp4
 
 ## Background
 
