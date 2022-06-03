@@ -5,3 +5,5 @@ The fourth model demonstrates changes in both speed and patterns. The sine wave 
 ## Listen
 
 Play the following movie to hear the original sound recording. Be sure to unmute playback, otherwise it will be silent.
+
+https://user-images.githubusercontent.com/464655/171912397-087c218d-1fdd-456c-9929-30181aa9e660.mp4
