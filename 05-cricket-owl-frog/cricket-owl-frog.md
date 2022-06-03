@@ -4,4 +4,6 @@ The fifth model was based on a short field recording that we had used throughout
 
 ## Listen
 
-![Play this movie to hear the sound.](cricket-owl-frog.mp4)
+Play the following movie to hear the original sound recording. Be sure to unmute playback, otherwise it will be silent.
+
+https://user-images.githubusercontent.com/464655/171907600-f3b6f602-794f-4e0e-9546-c830026c9206.mp4
