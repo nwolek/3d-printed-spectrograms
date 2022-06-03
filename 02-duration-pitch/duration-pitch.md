@@ -5,3 +5,5 @@ The second model concentrates on duration and pitch. The sine oscillator is used
 ## Listen
 
 Play the following movie to hear the original sound recording. Be sure to unmute playback, otherwise it will be silent.
+
+https://user-images.githubusercontent.com/464655/171912104-79c6ca99-8af7-43a9-a59a-0ccec39a0953.mp4
