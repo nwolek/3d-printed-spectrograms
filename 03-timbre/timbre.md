@@ -5,3 +5,5 @@ The third model is designed to focus on timbre and demonstrate differences betwe
 ## Listen
 
 Play the following movie to hear the original sound recording. Be sure to unmute playback, otherwise it will be silent.
+
+https://user-images.githubusercontent.com/464655/171912220-8957453f-a4ad-4e5d-b0ad-89f659eec91a.mp4
