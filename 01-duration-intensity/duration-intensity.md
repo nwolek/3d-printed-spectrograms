@@ -5,3 +5,5 @@ The first model focuses on the first two items in our list of features, duration
 ## Listen
 
 Play the following movie to hear the original sound recording. Be sure to unmute playback, otherwise it will be silent.
+
+https://user-images.githubusercontent.com/464655/171911967-b39b4dfe-d170-475d-9c60-33315a6bf7f3.mp4
