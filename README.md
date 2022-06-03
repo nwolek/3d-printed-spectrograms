@@ -18,7 +18,7 @@ Visual representations of recorded sound waves enable computer users to make use
 
 This research project was accepted for presentation at [ICMC 2022](https://icmc2022.org). For more details about our design process, background research, and wisdom we learned along the way, please see our full paper: 
 
-Wolek, Nathan, and Grace McEllroy. 2022. “[Designing 3D-Printed Spectrograms for Blind Students](http://nathanwolek.com/docs/2022/designing-3d-printed-spectrograms.pdf).” In *Proceedings of the International Computer Music Conference*. Univ. of Limerick, Ireland.
+N. Wolek and G. McEllroy. “[Designing 3D-Printed Spectrograms for Blind Students](http://nathanwolek.com/docs/2022/designing-3d-printed-spectrograms.pdf).” In *Proceedings of the International Computer Music Conference*, Limerick, Ireland, 2022.
 
 
 ## How to Download
